@@ -1,4 +1,4 @@
-# BACKEND CASINO - RAMA DEVELOP
+# BACKEND GESTION PROYECTOS - RAMA DEVELOP
 
 ## Pasos basicos para el uso del proyecto
 
